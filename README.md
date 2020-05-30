@@ -1,6 +1,6 @@
 # DATA-STRUCTURE-AND-FILES-LABORATORY
 
-( #Please_Note : Assignments are in order that is given below. )
+( Please Note : Assignments are in order that is given below. )
 
 1. Implement stack as an abstract data type using linked list and use this ADT for conversion of
 infix expression to postfix, prefix and evaluation of postfix and prefix expression.
